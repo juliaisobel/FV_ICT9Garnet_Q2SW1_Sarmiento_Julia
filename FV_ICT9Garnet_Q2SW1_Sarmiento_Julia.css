@@ -1,0 +1,28 @@
+body{background-color: #FFE4E1;
+	background-image: url(SKY.WEBP);
+	background-size: cover;
+}
+h1{
+	background-color: #CCD6FF;
+	text-align:center;
+}
+h2{
+	background-color: #C12267;
+	color: #FFE4E1;
+	font-size: xx-large;
+}
+.pink-background{
+	background-color: #C12267;
+}
+.image{
+	text-decoration: underline;
+}
+.breed{
+	text-decoration: underline;
+}
+.description{
+	text-decoration: underline;
+}
+table{
+	opacity: 0.5
+}
